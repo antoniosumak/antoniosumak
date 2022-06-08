@@ -86,7 +86,7 @@ const badges = badgeConfigs.reduce(
   ''
 );
 
-const gif = `<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="700"/>`;
+const gif = `<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="400"/>`;
 const factsTitle = generateTitle(2, `:zap: A Few Quick Facts`);
 const factsConfigs = [
   `🏋🏻‍♂️  I love working out and gym all around`,

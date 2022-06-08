@@ -2,7 +2,7 @@
 <p>📍 Varaždin, Croatia 🇭🇷</p>
 <p>Software engineer and student, focused on front-end development at <strong><a href="https://www.mobilisis.hr/">Mobilisis</a></strong> based in Varaždin, Croatia. Always working on my smaller side projects, trying to improve my development skills</p>
 <p><a href="https://www.linkedin.com/in/antoniosumak/"><img src="https://img.shields.io/badge/-@antoniosumak-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;logoColor=white&amp;link=https://www.linkedin.com/in/antoniosumak/" alt="LinkedIn Badge"></a> <a href="https://www.instagram.com/antonio_sumak/"><img src="https://img.shields.io/badge/-@antonio_sumak-E4405F?style=flat-square&amp;labelColor=E4405F&amp;logo=Instagram&amp;logoColor=white&amp;link=https://www.instagram.com/antonio_sumak/" alt="Instagram Badge"></a></p>
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="700"/>
+<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" width="400"/>
 <h2>⚡ A Few Quick Facts</h2>
 <ul>
 <li>🏋🏻‍♂️  I love working out and gym all around</li>
